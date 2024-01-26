@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://lottie.host/3b66c890-b5d0-46c0-aed1-29d06d2b4066/JYDjMj7vDC.json',
+        path: 'https://kikstarcreatives.github.io/Loading animation 2.json',
     });
 }
 
